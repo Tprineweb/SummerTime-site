@@ -1,0 +1,122 @@
+
+
+.Top {
+	width: 75%;
+	height:20%;
+	background-color: black;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 3px;
+	border-style: solid;
+    border-width: 2px;
+	border-color: black;
+
+}
+
+
+.paragraph {
+  width: 50%;
+  position: relative;
+  margin: auto;
+  text-align:center;
+    border-style: solid;
+    border-width: 5px;
+	border-color: black;
+	background-color: white;
+	padding: 3px;
+	font-family: Georgia;
+}
+
+
+
+.Header {
+	width: 75%;
+	height:10%;
+	background-color: black;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	border-style: solid;
+    border-width: 5px;
+	border-color: black;
+
+}
+
+
+
+body {
+    background-image: url("sunset.jpg");
+	text-align:center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+
+h1{
+	text-align: center;
+	vertical-align: center;
+	margin: auto;
+	color: white;
+	font-family: Georgia;
+}
+
+h2{
+	text-align: center;
+	vertical-align: center;
+	margin: auto;
+	color: white;
+	font-family: Georgia;
+}
+
+h3{
+	text-align: center;
+	vertical-align: center;
+	margin: auto;
+	color: #093987;
+	font-family: Georgia;
+}
+
+.container {
+  width: 75%;
+  position: relative;
+  margin:auto;
+    border-style: solid;
+    border-width: 5px;
+	border-color: black;
+	background-color: white;
+padding: 0;
+}
+
+table{
+	padding: 10px;
+	
+}
+
+.content {
+	margin:auto;
+	padding: 10px;
+	
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: grey;
+}
+td{
+	text-align: center;
+	
+}
+

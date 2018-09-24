@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<SummerFun>
+	<ToDo>
+		<Activity>Go to the Beach</Activity>
+		<Description>Have fun in the sand with family and friends</Description>
+		<Link>http://www.beaches.com/</Link>
+	</ToDo>
+	<ToDo>
+		<Activity>Take a Hike</Activity>
+		<Description>Have fun in the Dirt with family and friends</Description>
+		<Link>https://en.wikipedia.org/wiki/Hiking</Link>
+	</ToDo>
+	<ToDo>
+		<Activity>Ride a Bike</Activity>
+		<Description>Have fun on your bike with family and friends</Description>
+		<Link>https://www.bikemag.com/</Link>
+	</ToDo>
+	<ToDo>
+		<Activity>Go on a Picnic</Activity>
+		<Description>Have fun eating food with family and friends</Description>
+		<Link>https://en.wikipedia.org/wiki/Picnic</Link>
+	</ToDo>
+	<ToDo>
+		<Activity>Play Video Games</Activity>
+		<Description>Have fun indoors with family and friends</Description>
+		<Link>https://www.gamestop.com/</Link>
+	</ToDo>
+</SummerFun>
