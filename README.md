@@ -19,3 +19,13 @@ a.	Data bind this material to at least one of your pages
 b.	Provide navigation of these documents
 c.	These documents must be well formed
 9)	JavaScript to enhance end user interaction
+---------------------------------------------------------------
+
+File Descriptions
+Index.php - main page
+connect-db.php and connection.php - creates a connection between the site and a mysql database
+delete.php and records.php - help edit, delete, and add records
+Summer.css - styles the index page
+SummerFun.xml - holds information for the summer activities
+SummerFun.xsl - styles the xml sheet
+glo3 holds information for the database
